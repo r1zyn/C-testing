@@ -1,6 +1,6 @@
 {
     "files.associations": {
         ".gitignore": "ignore",
-        "ostream": "cpp"
+        "iostream": "cpp"
     }
 }
